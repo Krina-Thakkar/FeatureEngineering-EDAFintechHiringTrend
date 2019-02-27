@@ -10,4 +10,11 @@
 #### Assigned each Job in FinTech Category and Determined Job is related to FinTech or not
 #### Built a Pipeline that can automatically take data from the 24 companies and compiles a single dataset with added features
 ## Part 4-
-### Analyzing the Data and gaining 
+### Analyzing the Data and gaining Insights 
+#### Generated graphs to answers questions like and How are the fintech related job hiring trends? Which companies have the most fintech related jobs and which ones least?
+#### Graphs are generated on Tableau - https://us-east-1.online.tableau.com/#/site/datadoodlers/workbooks/448238/views
+#### To access above file you need to have Tableau account 
+## Part 5 - 
+### Dockerized Code
+#### Dockerized pipeline and published Docker image to Docker Hub
+#### Link -- https://cloud.docker.com/repository/registry-1.docker.io/krinathakkar/fintech
