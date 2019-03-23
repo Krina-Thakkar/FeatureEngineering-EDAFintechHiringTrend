@@ -18,3 +18,6 @@
 ### Dockerized Code
 #### Dockerized pipeline and published Docker image to Docker Hub
 #### Link -- https://cloud.docker.com/repository/registry-1.docker.io/krinathakkar/fintech
+https://codelabs-preview.appspot.com/?file_id=18zMhAetQnRlf6VN4TrrEGyk_N9-yp9X3AmLQlluKgMA
+
+https://codelabs-preview.appspot.com/?file_id=1jnMH3PqFteR9db4uKWL_GPhmXxpcOq8MQl1gw6YIB38#0
